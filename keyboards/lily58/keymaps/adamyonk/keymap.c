@@ -1,3 +1,4 @@
+#define TAP_CODE_DELAY 100
 #include QMK_KEYBOARD_H
 
 #ifdef PROTOCOL_LUFA
